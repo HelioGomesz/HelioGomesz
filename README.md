@@ -15,8 +15,8 @@
 ---
 
 🎓 Formado em **Engenharia Elétrica**  
-📚 Estudando **Pós-graduação em Engenharia de Software**  
-💻 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**  
+📚 Iniciando estudos em... **Pós-graduação em Engenharia de Software**  
+💻 Iniciando curso de... **Análise e Desenvolvimento de Sistemas (ADS)**  
 🚀 Apaixonado por desenvolvimento de software e novas tecnologias  
 
 ---
