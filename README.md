@@ -24,7 +24,7 @@
 ## 🚀 Tecnologias que utilizo
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express  
-- **Banco de Dados:** SQLite, JSON  
+- **Banco de Dados:** MongoDB, SQLite, JSON  
 - **Outros:** Electron, Git/GitHub, Prisma  
 
 ---
