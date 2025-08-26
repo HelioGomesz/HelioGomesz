@@ -57,7 +57,7 @@
 
 ## 📫 Contato
 - ✉️ Email: **heliosgomes02@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/hélio-gomes-089958216](https://www.linkedin.com/in/h%C3%A9lio-gomes-089958216)  
+- 💼 LinkedIn: [linkedin.com/in/heliogomes02](https://www.linkedin.com/in/heliogomes02) 
 - 🌐 Portfólio: *em breve...*  
 
 ---
