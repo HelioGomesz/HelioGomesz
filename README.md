@@ -33,6 +33,7 @@
 🔹 [Simulador de Embarque](https://github.com/HelioGomesz/Simulador-de-Embarque) – Aplicação web para simulação de ocupação de containers, uma solução para uma empresa do Polo Indústrial de Manaus - *em desenvolvimento...*
 
 🔹 [Love Letter App](https://github.com/HelioGomesz/Love-Letter-App) – Aplicativo simples e divertido para exibir mensagens programadas com efeito de digitação 
+
 🔹 **Portfólio Pessoal** – *em desenvolvimento...*  
 
 ---
