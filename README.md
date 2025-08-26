@@ -30,7 +30,8 @@
 ---
 
 ## 📌 Projetos em destaque
-🔹 [Simulador de Embarque](https://github.com/HelioGomesz/Simulador-de-Embarque) – Aplicação web para simulação de ocupação de containers, uma solução para uma empresa do Polo Indústrial de Manaus  
+🔹 [Simulador de Embarque](https://github.com/HelioGomesz/Simulador-de-Embarque) – Aplicação web para simulação de ocupação de containers, uma solução para uma empresa do Polo Indústrial de Manaus - *em desenvolvimento...*
+
 🔹 [App Cute Message](https://github.com/HelioGomesz/App-Cute-Message) – Aplicativo simples e divertido para enviar mensagens fofas  
 🔹 **Portfólio Pessoal** – *em desenvolvimento...*  
 
