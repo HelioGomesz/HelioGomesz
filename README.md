@@ -40,12 +40,12 @@
 ---
 
 ## 📚 Atualmente estudando
-- TypeScript
-- APIs REST & GraphQL
+- React
+- Java
 - Engenharia de Software aplicada
 - Web Devlopment
 - Testes automatizados
-- Criação de projetos
+- Criação de projetos com Metodologias Ágeis
 
 ---
 
@@ -54,7 +54,7 @@
 - Automação de processos
 - Eletrônica
 - Web Development 
-- Game Development  
+- Analista de Sistemas 
 
 ---
 
