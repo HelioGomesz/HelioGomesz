@@ -24,7 +24,7 @@
 ## 🚀 Tecnologias que utilizo
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express  
-- **Banco de Dados:** MongoDB, SQLite, JSON  
+- **Banco de Dados:** MongoDB, SQLite
 - **Outros:** Electron, Git/GitHub, Prisma  
 
 ---
@@ -41,7 +41,7 @@
 
 ## 📚 Atualmente estudando
 - React
-- Java
+- JavaScript
 - Engenharia de Software aplicada
 - Web Devlopment
 - Testes automatizados
